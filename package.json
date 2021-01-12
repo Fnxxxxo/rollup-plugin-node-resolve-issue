@@ -1,0 +1,8 @@
+{
+  "name": "rollup-plugin-reproduction",
+  "version": "1.0.0",
+  "description": "Please fork this REPL to create a quick reproduction for reporting issues. Provide the link to your fork in the issue you create. ",
+  "dependencies": {
+    "rollup": "^1.27.14"
+  }
+}
